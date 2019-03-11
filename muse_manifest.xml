@@ -1,0 +1,454 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dfsfs.cooooo" resolutions="1x,2x" timestamp="1552306183573">
+  <folder name="css">
+    <file name="site_global.css" crc="314571582"/>
+    <file name="master_a-master.css" crc="91285725" ref="η-εταιρεια:επικοινωνια:μετρησεισ:εξωρασα:συχνεσ-ερωτησεισ:προϊοντα:ζωστικα:τροποι-παραγγελιασ:index"/>
+    <file name="_-________.css" crc="4106184305" ref="η-εταιρεια"/>
+    <file name="___________.css" crc="524784044" ref="επικοινωνια"/>
+    <file name="_________.css" crc="4054456448" ref="μετρησεισ"/>
+    <file name="_______.css" crc="86939531" ref="εξωρασα"/>
+    <file name="______-_________.css" crc="161100369" ref="συχνεσ-ερωτησεισ"/>
+    <file name="________.css" crc="287343183" ref="προϊοντα"/>
+    <file name="_______1.css" crc="3856915247" ref="ζωστικα"/>
+    <file name="______-___________.css" crc="111052007" ref="τροποι-παραγγελιασ"/>
+    <file name="index.css" crc="104023801" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>προϊοντα:phone>εξωρασα:phone>ζωστικα:phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:phone>συχνεσ-ερωτησεισ:tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ:index:επικοινωνια:η-εταιρεια:μετρησεισ:τροποι-παραγγελιασ:προϊοντα:συχνεσ-ερωτησεισ:εξωρασα:ζωστικα"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>προϊοντα:phone>εξωρασα:phone>ζωστικα:phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:phone>συχνεσ-ερωτησεισ:tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ:index:επικοινωνια:η-εταιρεια:μετρησεισ:τροποι-παραγγελιασ:προϊοντα:συχνεσ-ερωτησεισ:εξωρασα:ζωστικα"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>προϊοντα:phone>εξωρασα:phone>ζωστικα:phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:phone>συχνεσ-ερωτησεισ:tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ:index:επικοινωνια:η-εταιρεια:μετρησεισ:τροποι-παραγγελιασ:προϊοντα:συχνεσ-ερωτησεισ:εξωρασα:ζωστικα"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>προϊοντα:phone>εξωρασα:phone>ζωστικα:phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:phone>συχνεσ-ερωτησεισ:tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ:index:επικοινωνια:η-εταιρεια:μετρησεισ:τροποι-παραγγελιασ:προϊοντα:συχνεσ-ερωτησεισ:εξωρασα:ζωστικα"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>προϊοντα:phone>εξωρασα:phone>ζωστικα:phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:phone>συχνεσ-ερωτησεισ:tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ:index:επικοινωνια:η-εταιρεια:μετρησεισ:τροποι-παραγγελιασ:προϊοντα:συχνεσ-ερωτησεισ:εξωρασα:ζωστικα"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:phone>προϊοντα:phone>εξωρασα:phone>ζωστικα:phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:phone>συχνεσ-ερωτησεισ:tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ:εξωρασα:ζωστικα"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:phone>προϊοντα:phone>εξωρασα:phone>ζωστικα:phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:phone>συχνεσ-ερωτησεισ:tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ:εξωρασα:ζωστικα"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:phone>προϊοντα:phone>εξωρασα:phone>ζωστικα:phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:phone>συχνεσ-ερωτησεισ:tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ:εξωρασα:ζωστικα"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:phone>προϊοντα:phone>εξωρασα:phone>ζωστικα:phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:phone>συχνεσ-ερωτησεισ:tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ:εξωρασα:ζωστικα"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>προϊοντα:phone>εξωρασα:phone>ζωστικα:phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:phone>συχνεσ-ερωτησεισ:tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ:index:επικοινωνια:η-εταιρεια:μετρησεισ:τροποι-παραγγελιασ:προϊοντα:συχνεσ-ερωτησεισ:εξωρασα:ζωστικα"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>προϊοντα:phone>εξωρασα:phone>ζωστικα:phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:επικοινωνια:η-εταιρεια:μετρησεισ:τροποι-παραγγελιασ:προϊοντα:εξωρασα:ζωστικα"/>
+  </folder>
+  <folder name="images">
+    <file name="2171x86.png" crc="4143609046" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2171x86_2x.png" crc="3977345809" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-14.jpg" crc="3817026084" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-14_2x.jpg" crc="4181196007" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-15.png" crc="3839509903" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-15_2x.png" crc="264192786" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-11161x322.png" crc="321431133" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-11161x322_2x.png" crc="3767171600" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-12161x322.png" crc="4089647623" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-12161x322_2x.png" crc="78302237" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook22x22.png" crc="266052165" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook22x22_2x.png" crc="4224569626" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-logo-silhouette22x22.png" crc="329625355" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-logo-silhouette22x22_2x.png" crc="4104918644" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-13.jpg" crc="4240028740" ref="phone>προϊοντα:phone>εξωρασα:phone>ζωστικα:phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ">
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="untitled-10154x308.png" crc="3895577078" seo="true" ref="phone>προϊοντα">
+      <caption webpage="προϊοντα" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="untitled-10154x308_2x.png" crc="3761424626" seo="true" ref="phone>προϊοντα">
+      <caption webpage="προϊοντα" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="untitled-11154x308.png" crc="110830161" seo="true" ref="phone>προϊοντα">
+      <caption webpage="προϊοντα" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="untitled-11154x308_2x.png" crc="518709638" seo="true" ref="phone>προϊοντα">
+      <caption webpage="προϊοντα" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="untitled-10.png" crc="3815793054" seo="true" ref="phone>εξωρασα:tablet>εξωρασα:εξωρασα">
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+    </file>
+    <file name="untitled-10_2x.png" crc="4035492165" seo="true" ref="phone>εξωρασα:tablet>εξωρασα:εξωρασα">
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+    </file>
+    <file name="untitled-10203x405.png" crc="3922091909" seo="true" ref="phone>εξωρασα">
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+    </file>
+    <file name="untitled-10203x405_2x.png" crc="530680645" seo="true" ref="phone>εξωρασα">
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>εξωρασα:phone>ζωστικα:tablet>εξωρασα:tablet>ζωστικα:εξωρασα:ζωστικα"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>εξωρασα:phone>ζωστικα:tablet>εξωρασα:tablet>ζωστικα:εξωρασα:ζωστικα"/>
+    <file name="untitled-12.png" crc="3810936917" seo="true" ref="phone>εξωρασα:tablet>εξωρασα:εξωρασα">
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+    </file>
+    <file name="untitled-12_2x.png" crc="398931168" seo="true" ref="phone>εξωρασα:tablet>εξωρασα:εξωρασα">
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+    </file>
+    <file name="untitled-12203x405.png" crc="4058789550" seo="true" ref="phone>εξωρασα">
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+    </file>
+    <file name="untitled-12203x405_2x.png" crc="3996192212" seo="true" ref="phone>εξωρασα">
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+    </file>
+    <file name="untitled-11.png" crc="4028120986" seo="true" ref="phone>ζωστικα:tablet>ζωστικα:ζωστικα">
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+    </file>
+    <file name="untitled-11_2x.png" crc="4022511609" seo="true" ref="phone>ζωστικα:tablet>ζωστικα:ζωστικα">
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+    </file>
+    <file name="untitled-11203x405.png" crc="4008271331" seo="true" ref="phone>ζωστικα">
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+    </file>
+    <file name="untitled-11203x405_2x.png" crc="464064206" seo="true" ref="phone>ζωστικα">
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+    </file>
+    <file name="untitled-5.jpg" crc="4199524941" seo="true" ref="phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:επικοινωνια:η-εταιρεια:μετρησεισ:τροποι-παραγγελιασ">
+      <caption webpage="μετρησεισ" alt=""/>
+      <caption webpage="μετρησεισ" alt=""/>
+      <caption webpage="μετρησεισ" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="η-εταιρεια" alt=""/>
+      <caption webpage="η-εταιρεια" alt=""/>
+      <caption webpage="η-εταιρεια" alt=""/>
+      <caption webpage="τροποι-παραγγελιασ" alt=""/>
+      <caption webpage="τροποι-παραγγελιασ" alt=""/>
+      <caption webpage="τροποι-παραγγελιασ" alt=""/>
+    </file>
+    <file name="untitled-5_2x.jpg" crc="211816752" seo="true" ref="phone>η-εταιρεια:phone>επικοινωνια:phone>μετρησεισ:phone>τροποι-παραγγελιασ:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:επικοινωνια:η-εταιρεια:μετρησεισ:τροποι-παραγγελιασ">
+      <caption webpage="μετρησεισ" alt=""/>
+      <caption webpage="μετρησεισ" alt=""/>
+      <caption webpage="μετρησεισ" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="η-εταιρεια" alt=""/>
+      <caption webpage="η-εταιρεια" alt=""/>
+      <caption webpage="η-εταιρεια" alt=""/>
+      <caption webpage="τροποι-παραγγελιασ" alt=""/>
+      <caption webpage="τροποι-παραγγελιασ" alt=""/>
+      <caption webpage="τροποι-παραγγελιασ" alt=""/>
+    </file>
+    <file name="untitled-2.png" crc="83346891" seo="true" ref="phone>επικοινωνια:tablet>επικοινωνια:επικοινωνια">
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+    </file>
+    <file name="untitled-2_2x.png" crc="3845893726" seo="true" ref="phone>επικοινωνια:tablet>επικοινωνια:επικοινωνια">
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+    </file>
+    <file name="untitled-3.png" crc="442155618" seo="true" ref="phone>επικοινωνια:tablet>επικοινωνια:επικοινωνια">
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+    </file>
+    <file name="untitled-3_2x.png" crc="213879913" seo="true" ref="phone>επικοινωνια:tablet>επικοινωνια:επικοινωνια">
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+    </file>
+    <file name="untitled-4.png" crc="232267317" seo="true" ref="phone>επικοινωνια:tablet>επικοινωνια:επικοινωνια">
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+    </file>
+    <file name="untitled-4_2x.png" crc="471697663" seo="true" ref="phone>επικοινωνια:tablet>επικοινωνια:επικοινωνια">
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+    </file>
+    <file name="untitled-8436x246.png" crc="161794056" seo="true" ref="phone>μετρησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+    </file>
+    <file name="untitled-8436x246_2x.png" crc="511669526" seo="true" ref="phone>μετρησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+    </file>
+    <file name="untitled-9361x203.png" crc="39966113" seo="true" ref="phone>μετρησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+    </file>
+    <file name="untitled-9361x203_2x.png" crc="102844112" seo="true" ref="phone>μετρησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+    </file>
+    <file name="2.png" crc="230254857" seo="true" ref="tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="η-εταιρεια" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="τροποι-παραγγελιασ" alt=""/>
+      <caption webpage="συχνεσ-ερωτησεισ" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="2_2x.png" crc="76457871" seo="true" ref="tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="η-εταιρεια" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="τροποι-παραγγελιασ" alt=""/>
+      <caption webpage="συχνεσ-ερωτησεισ" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="facebook.png" crc="303793015" seo="true" ref="tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="η-εταιρεια" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="τροποι-παραγγελιασ" alt=""/>
+      <caption webpage="συχνεσ-ερωτησεισ" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="facebook_2x.png" crc="4224569626" seo="true" ref="tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="η-εταιρεια" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="τροποι-παραγγελιασ" alt=""/>
+      <caption webpage="συχνεσ-ερωτησεισ" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="twitter-logo-silhouette.png" crc="4117561029" seo="true" ref="tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="η-εταιρεια" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="τροποι-παραγγελιασ" alt=""/>
+      <caption webpage="συχνεσ-ερωτησεισ" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="twitter-logo-silhouette_2x.png" crc="275112950" seo="true" ref="tablet>index:tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:tablet>συχνεσ-ερωτησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+      <caption webpage="εξωρασα" alt=""/>
+      <caption webpage="επικοινωνια" alt=""/>
+      <caption webpage="η-εταιρεια" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ζωστικα" alt=""/>
+      <caption webpage="τροποι-παραγγελιασ" alt=""/>
+      <caption webpage="συχνεσ-ερωτησεισ" alt=""/>
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="untitled-7.png" crc="4127177347" ref="tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:επικοινωνια:η-εταιρεια:μετρησεισ:τροποι-παραγγελιασ:προϊοντα:εξωρασα:ζωστικα">
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="untitled-7_2x.png" crc="14156676" ref="tablet>προϊοντα:tablet>εξωρασα:tablet>ζωστικα:tablet>η-εταιρεια:tablet>επικοινωνια:tablet>μετρησεισ:tablet>τροποι-παραγγελιασ:επικοινωνια:η-εταιρεια:μετρησεισ:τροποι-παραγγελιασ:προϊοντα:εξωρασα:ζωστικα">
+      <caption webpage="προϊοντα" alt=""/>
+    </file>
+    <file name="untitled-8639x360.png" crc="4013288246" seo="true" ref="tablet>μετρησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+    </file>
+    <file name="untitled-8639x360_2x.png" crc="128101501" seo="true" ref="tablet>μετρησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+    </file>
+    <file name="untitled-9639x360.png" crc="3766171132" seo="true" ref="tablet>μετρησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+    </file>
+    <file name="untitled-9639x360_2x.png" crc="3781744451" seo="true" ref="tablet>μετρησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+    </file>
+    <file name="2165x83.png" crc="3865661087" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2165x83_2x.png" crc="68816333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-11117x234.png" crc="197624355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-11117x234_2x.png" crc="112108598" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-12117x234.png" crc="258037927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-12117x234_2x.png" crc="3979149007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-8.png" crc="4004329790" seo="true" ref="μετρησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+    </file>
+    <file name="untitled-8_2x.png" crc="3763093715" seo="true" ref="μετρησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+    </file>
+    <file name="untitled-9.png" crc="336301528" seo="true" ref="μετρησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+    </file>
+    <file name="untitled-9_2x.png" crc="3781744451" seo="true" ref="μετρησεισ">
+      <caption webpage="μετρησεισ" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="401354607" ref="tablet>προϊοντα:tablet>εξωρασα:tablet>η-εταιρεια:tablet>τροποι-παραγγελιασ:tablet>μετρησεισ:tablet>ζωστικα:tablet>επικοινωνια:tablet>συχνεσ-ερωτησεισ:tablet>index"/>
+      <file name="________.css" crc="281625694" ref="tablet>προϊοντα"/>
+      <file name="_______.css" crc="4138333405" ref="tablet>εξωρασα"/>
+      <file name="_-________.css" crc="392708695" ref="tablet>η-εταιρεια"/>
+      <file name="______-___________.css" crc="451790540" ref="tablet>τροποι-παραγγελιασ"/>
+      <file name="_________.css" crc="4013243418" ref="tablet>μετρησεισ"/>
+      <file name="_______1.css" crc="4118808933" ref="tablet>ζωστικα"/>
+      <file name="___________.css" crc="423090766" ref="tablet>επικοινωνια"/>
+      <file name="______-_________.css" crc="311857563" ref="tablet>συχνεσ-ερωτησεισ"/>
+      <file name="index.css" crc="3942836096" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="132892231" seo="true" mt="1552305863537" redirect="true"/>
+    <file name="προϊοντα.html" crc="408023077" seo="true" mt="1552302311214" redirect="true"/>
+    <file name="εξωρασα.html" crc="111752372" seo="true" mt="1552302311214" redirect="true"/>
+    <file name="ζωστικα.html" crc="4121013447" seo="true" mt="1552302311214" redirect="true"/>
+    <file name="η-εταιρεια.html" crc="208693539" seo="true" mt="1552302311214" redirect="true"/>
+    <file name="επικοινωνια.html" crc="420145544" seo="true" mt="1552302311214" redirect="true"/>
+    <file name="μετρησεισ.html" crc="350399259" seo="true" mt="1552302311214" redirect="true"/>
+    <file name="τροποι-παραγγελιασ.html" crc="378168526" seo="true" mt="1552302311214" redirect="true"/>
+    <file name="συχνεσ-ερωτησεισ.html" crc="4193470945" seo="true" mt="1552302311214" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4186446836" ref="phone>προϊοντα:phone>η-εταιρεια:phone>επικοινωνια:phone>index:phone>τροποι-παραγγελιασ:phone>συχνεσ-ερωτησεισ:phone>εξωρασα:phone>μετρησεισ:phone>ζωστικα"/>
+      <file name="________.css" crc="254485992" ref="phone>προϊοντα"/>
+      <file name="_-________.css" crc="3791875416" ref="phone>η-εταιρεια"/>
+      <file name="___________.css" crc="4077020621" ref="phone>επικοινωνια"/>
+      <file name="index.css" crc="4201638020" ref="phone>index"/>
+      <file name="______-___________.css" crc="4094504479" ref="phone>τροποι-παραγγελιασ"/>
+      <file name="______-_________.css" crc="382501726" ref="phone>συχνεσ-ερωτησεισ"/>
+      <file name="_______.css" crc="339988093" ref="phone>εξωρασα"/>
+      <file name="_________.css" crc="87279126" ref="phone>μετρησεισ"/>
+      <file name="_______1.css" crc="4116879996" ref="phone>ζωστικα"/>
+    </folder>
+    <file name="index.html" crc="260265384" seo="true" mt="1552306135409" redirect="true"/>
+    <file name="προϊοντα.html" crc="68455825" seo="true" mt="1552302475902" redirect="true"/>
+    <file name="εξωρασα.html" crc="3854982469" seo="true" mt="1552302475902" redirect="true"/>
+    <file name="ζωστικα.html" crc="4020281619" seo="true" mt="1552302475902" redirect="true"/>
+    <file name="η-εταιρεια.html" crc="3914551898" seo="true" mt="1552302475902" redirect="true"/>
+    <file name="επικοινωνια.html" crc="75170384" seo="true" mt="1552302475902" redirect="true"/>
+    <file name="μετρησεισ.html" crc="4031659718" seo="true" mt="1552302475902" redirect="true"/>
+    <file name="τροποι-παραγγελιασ.html" crc="405309160" seo="true" mt="1552302475902" redirect="true"/>
+    <file name="συχνεσ-ερωτησεισ.html" crc="262686500" seo="true" mt="1552302475902" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4102562641" seo="true" mt="1552305570337" redirect="true"/>
+  <file name="επικοινωνια.html" crc="3964872960" seo="true" mt="1552300120537" redirect="true"/>
+  <file name="η-εταιρεια.html" crc="3875828313" seo="true" mt="1552300120495" redirect="true"/>
+  <file name="μετρησεισ.html" crc="115511154" seo="true" mt="1552300120579" redirect="true"/>
+  <file name="τροποι-παραγγελιασ.html" crc="4188073596" seo="true" mt="1552300120621" redirect="true"/>
+  <file name="προϊοντα.html" crc="4127901856" seo="true" mt="1552300120371" redirect="true"/>
+  <file name="συχνεσ-ερωτησεισ.html" crc="373902370" seo="true" mt="1552300120663" redirect="true"/>
+  <file name="εξωρασα.html" crc="3869857723" seo="true" mt="1552300120411" redirect="true"/>
+  <file name="ζωστικα.html" crc="4254279562" seo="true" mt="1552300120454" redirect="true"/>
+</manifest>
